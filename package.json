@@ -7,7 +7,7 @@
   "author": "Astro",
   "dependencies": {
     "sax": "~0.6.0",
-    "node-expat": "~2.3.0"
+    "node-expat": "https://github.com/bendoh/node-expat/commit/409eb4b5cf7983b42862492bb93b87c1a16ddb7a"
   },
   "repository": {
     "type": "git",
